@@ -1,4 +1,5 @@
 ActiveAdmin.register Wine do
+  permit_params :naam, :prijs, :doosprijs
 
   
   # See permitted parameters documentation:
