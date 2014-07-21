@@ -1,4 +1,5 @@
 ActiveAdmin.register LineItem do
+  permit_params :amount
 
   
   # See permitted parameters documentation:
