@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  naam: MyString
+  prijs: 9.99
+  doosprijs: 9.99
+
+two:
+  naam: MyString
+  prijs: 9.99
+  doosprijs: 9.99
