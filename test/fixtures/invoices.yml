@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  customer_id: 
+  datum: 2014-07-21
+  uw_referentie: MyString
+
+two:
+  customer_id: 
+  datum: 2014-07-21
+  uw_referentie: MyString
