@@ -1,0 +1,19 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Naam:</strong>
+  <%= @wine.naam %>
+</p>
+
+<p>
+  <strong>Prijs:</strong>
+  <%= @wine.prijs %>
+</p>
+
+<p>
+  <strong>Doosprijs:</strong>
+  <%= @wine.doosprijs %>
+</p>
+
+<%= link_to 'Edit', edit_wine_path(@wine) %> |
+<%= link_to 'Back', wines_path %>
